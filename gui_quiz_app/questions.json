@@ -1,0 +1,52 @@
+[
+    {
+        "question": "When did Pakistan gain independence?",
+        "options": ["August 14, 1947", "September 6, 1965", "March 23, 1940", "December 25, 1876"],
+        "answer": "August 14, 1947"
+    },
+    {
+        "question": "Who was the first Governor-General of Pakistan?",
+        "options": ["Liaquat Ali Khan", "Muhammad Ali Jinnah", "Allama Iqbal", "Fatima Jinnah"],
+        "answer": "Muhammad Ali Jinnah"
+    },
+    {
+        "question": "What is the national language of Pakistan?",
+        "options": ["Punjabi", "Sindhi", "Urdu", "English"],
+        "answer": "Urdu"
+    },
+    {
+        "question": "Which mountain range is located in the northern part of Pakistan?",
+        "options": ["Himalayas", "Andes", "Alps", "Rocky Mountains"],
+        "answer": "Himalayas"
+    },
+    {
+        "question": "What is the largest province of Pakistan by area?",
+        "options": ["Punjab", "Sindh", "Khyber Pakhtunkhwa", "Balochistan"],
+        "answer": "Balochistan"
+    },
+    {
+        "question": "Who wrote the national anthem of Pakistan?",
+        "options": ["Allama Iqbal", "Hafeez Jalandhari", "Faiz Ahmed Faiz", "Ahmed Nadeem Qasmi"],
+        "answer": "Hafeez Jalandhari"
+    },
+    {
+        "question": "In which year was the Lahore Resolution passed?",
+        "options": ["1930", "1940", "1947", "1965"],
+        "answer": "1940"
+    },
+    {
+        "question": "What is the capital city of Pakistan?",
+        "options": ["Karachi", "Lahore", "Islamabad", "Rawalpindi"],
+        "answer": "Islamabad"
+    },
+    {
+        "question": "Which desert is located in Sindh province?",
+        "options": ["Thar Desert", "Cholistan Desert", "Thal Desert", "Sahara Desert"],
+        "answer": "Thar Desert"
+    },
+    {
+        "question": "What is the national animal of Pakistan?",
+        "options": ["Tiger", "Markhor", "Lion", "Snow Leopard"],
+        "answer": "Markhor"
+    }
+]
